@@ -68,7 +68,6 @@ mdurl==0.1.2
 mistune==3.0.2
 mlxtend==0.23.3
 msal==1.31.1
-msvc_runtime==14.40.33807
 narwhals==1.16.0
 nbclient==0.10.0
 nbconvert==7.16.4
